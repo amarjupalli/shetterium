@@ -1,0 +1,23 @@
+{
+  "name": "y",
+  "version": "1.0.0",
+  "description": "coin of the marshetty, for the marshetty, by the marshetty.🏆",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarjupalli/shetterium.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarjupalli/shetterium/issues"
+  },
+  "homepage": "https://github.com/amarjupalli/shetterium#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "truffle": "^5.1.65"
+  }
+}
